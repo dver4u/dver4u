@@ -3,7 +3,7 @@
 <h3 align="center">Lover cats from Russia! 🇷🇺</h3>
 
 I tried to draw, but I'm not very good at it. I like listening to music, playing games, and petting the cat.  ![Designed by Freepik](https://github.com/hhfg446-cats/hhfg446-cats/assets/171927204/f759512f-9d16-417f-960b-41c941ca26b7)
-(Designed by <a href="https://img.freepik.com/free-photo/closeup-shot-beautiful-ginger-domestic-kitten-sitting-white-surface_181624-35913.jpg?t=st=1718811001~exp=1718814601~hmac=be7354c7f32125cc528601f483ddeb33aa43e9a6b8062480d1062e4e26bd0503&w=740" target="_blank">Freepik</a>)
+<a href="https://ru.freepik.com/free-photo/closeup-shot-beautiful-ginger-domestic-kitten-sitting-white-surface_14195938.htm#query=k%D0%BE%D1%82&position=5&from_view=keyword&track=ais_user&uuid=8b0c43bc-709e-45ee-8845-de2157ae563a">Изображение от wirestock на Freepik</a>
 
 
 I am very good at understanding systems. In almost all cases, I know where to click. My English is not very good, but I know basic words and some phrases. I love kittens so much, and I am afraid of dogs.
