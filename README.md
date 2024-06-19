@@ -7,3 +7,10 @@ I tried to draw, but I'm not very good at it. I like listening to music, playing
 I am very good at understanding systems. In almost all cases, I know where to click. My English is not very good, but I know basic words and some phrases. I love kittens so much, and I am afraid of dogs.
 
 I love talking.
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hhfg446-cats)](https://github.com/hhfg446-cats/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hhfg446-cats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hhfg446-cats&repo=github-readme-stats)](https://github.com/hhfg446-cats/github-readme-stats)
